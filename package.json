@@ -1,0 +1,19 @@
+{
+  "name": "read-me-generator",
+  "version": "1.0.0",
+  "description": "Read-Me Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanAguilera/Read-Me-Generator.git"
+  },
+  "author": "Daniel Aguilera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanAguilera/Read-Me-Generator/issues"
+  },
+  "homepage": "https://github.com/DanAguilera/Read-Me-Generator#readme"
+}
