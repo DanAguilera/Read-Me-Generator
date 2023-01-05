@@ -21,27 +21,27 @@ const questions = [
     },
     {
         type: "input",
-        message: "Please write a short description of your project:",
+        message: "Write a short description of your project:",
         name: "description"
     },
     {
         type: "input",
-        message: "What command should be run to install dependencies?",
+        message: "What command should be run to install your dependencies?",
         name: "installation"
     },
     {
         type: "input",
-        message: "What does the user need to know about using the repo?",
+        message: "What does the user need to know about your project?",
         name: "usage"
     },
     {
         type: "input",
-        message: "What does the user need to know about contributing to the repo?",
+        message: "What does the user need to know about using your repo",
         name: "contribution"
     },
     {
         type: "input",
-        message: "What command should be run for testing?",
+        message: "What command should be run or start testing?",
         name: "tests"
     },
     {

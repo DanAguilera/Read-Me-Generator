@@ -1,8 +1,8 @@
-# Read-Me-Generator
+# OOP-Team-Building
     ---
     ![MIT](https://img.shields.io/badge/license-MIT-green)
     ## Description
-    Creating a rea-me at the touch of a button 
+    A website in which you create and add employees
     ## Table of Contents
     1. [Installation](#installation)
     2. [Usage](#usage)
@@ -14,11 +14,11 @@
     To install the necessary dependencies, run the following command:
     npm init and npm install
     ## Usage
-    This repo allows you to create a read-me all through node.js and a sprinkle of js
+    Tech used was node.js and basic markup languages
     ## License 
     This project is licensed under the MIT license.
     ## Contributing
-    JS tehcnologies were used
+    bootstrap was used
     ## Tests
     To run tests, run the following command:
     node index.js
