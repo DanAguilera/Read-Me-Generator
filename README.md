@@ -2,7 +2,7 @@
     ---
     ![MIT](https://img.shields.io/badge/license-MIT-green)
     ## Description
-    Creating a rea-me at the touch of a button 
+    Using node.js to create a ReadMe from the backend
     ## Table of Contents
     1. [Installation](#installation)
     2. [Usage](#usage)
@@ -12,18 +12,18 @@
     6. [Questions](#questions)
     ## Installation
     To install the necessary dependencies, run the following command:
-    npm init and npm install
+    node index.js
     ## Usage
-    This repo allows you to create a read-me all through node.js and a sprinkle of js
+    node.js and javascript was used
     ## License 
     This project is licensed under the MIT license.
     ## Contributing
-    JS tehcnologies were used
+    all the technologies used was backend
     ## Tests
     To run tests, run the following command:
     node index.js
     ## Questions
-    If you have any questions about this repo, open an issue or contact me directly at [dan.aguilera97@gmail.com](mailto:dan.aguilera97@gmail.com). You can find more of my work at [DanAguilera](https://www.github.com/DanAguilera).
+    If you have any questions about this repo, open an issue or contact me directly at [dan.aguilera97@gmail.com](mailto:dan.aguilera97@gmail.com). You can find more of my work at [Read-Me-Generator](https://www.github.com/Read-Me-Generator).
     
-    https://drive.google.com/file/d/1HzR6pfw74jVpl2bCgtQfdpKHGF5dpS6Z/view
+ https://drive.google.com/file/d/1qLXDuakaMtVFZZL4uqsg0_9-9BtRzaTV/view
   
