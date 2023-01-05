@@ -1,8 +1,8 @@
-# OOP-Team-Building
+# Read-Me-Generator
     ---
     ![MIT](https://img.shields.io/badge/license-MIT-green)
     ## Description
-    A website in which you create and add employees
+    Using node.js to create a ReadMe from the backend
     ## Table of Contents
     1. [Installation](#installation)
     2. [Usage](#usage)
@@ -12,16 +12,16 @@
     6. [Questions](#questions)
     ## Installation
     To install the necessary dependencies, run the following command:
-    npm init and npm install
+    node index.js
     ## Usage
-    Tech used was node.js and basic markup languages
+    node.js and javascript was used
     ## License 
     This project is licensed under the MIT license.
     ## Contributing
-    bootstrap was used
+    all the technologies used was backend
     ## Tests
     To run tests, run the following command:
     node index.js
     ## Questions
-    If you have any questions about this repo, open an issue or contact me directly at [dan.aguilera97@gmail.com](mailto:dan.aguilera97@gmail.com). You can find more of my work at [DanAguilera](https://www.github.com/DanAguilera).
+    If you have any questions about this repo, open an issue or contact me directly at [dan.aguilera97@gmail.com](mailto:dan.aguilera97@gmail.com). You can find more of my work at [Read-Me-Generator](https://www.github.com/Read-Me-Generator).
   
